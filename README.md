@@ -5,7 +5,9 @@ We use EfficientSAM in our workflow,
 
 This basically involves generating a grid of point prmpts over the image and getting the relevant masks. 
 
-Since the original image is large, we slice it into smaller windows and run EfficientSAM. The annotated images are then stiched back. 
+Since the original image is large, we slice it into smaller windows and run EfficientSAM. The annotated images are then stiched back, the tapestry of colours can be viewed below!  
+
+
 
 For the curious:
 

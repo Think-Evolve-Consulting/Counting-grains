@@ -15,7 +15,7 @@ Total number of grains: 39690
 
 
 Original Image: 
-<img src="grains_of_sand.jpg" alt="drawing" width="200", height="400"/>
+[<img src="grains_of_sand.jpg" alt="drawing" width="200", height="400"/>](https://github.com/Think-Evolve-Consulting/Counting-grains/blob/0552f3b5e5af0c1652bef5be9d48d05946ddb28f/grain_mask.jpg))
 
 
 Image with Annotation Masks:

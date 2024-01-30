@@ -12,3 +12,10 @@ For the curious:
 ```
 Total number of grains: 39690
 ```
+
+
+Original Image: 
+[!Original Image ](https://github.com/Think-Evolve-Consulting/Counting-grains/blob/0552f3b5e5af0c1652bef5be9d48d05946ddb28f/grains_of_sand.jpg)
+
+Image with Annotation Masks:
+[!Original Image ](https://github.com/Think-Evolve-Consulting/Counting-grains/blob/0552f3b5e5af0c1652bef5be9d48d05946ddb28f/grain_mask.jpg)
